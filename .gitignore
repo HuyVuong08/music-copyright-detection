@@ -1,2 +1,7 @@
 .DS_Store
-.mov
+.mov 
+myenv
+.api_keys
+.python-version
+notebook/out.json
+.log
